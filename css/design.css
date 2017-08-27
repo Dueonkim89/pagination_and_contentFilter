@@ -8,6 +8,12 @@ body{
 	display: none;
 }
 
+.notFound {
+	color: red;
+	font-weight: bold;
+	font-size: 1.5rem;
+}
+
 .page{
   margin: 50px auto;
   width: 70%;
